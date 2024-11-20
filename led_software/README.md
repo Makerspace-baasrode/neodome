@@ -4,7 +4,7 @@ To keep it simple, and as a first step to light up the neodome, we use the defau
 
 ## WLED configuration files
 
-To simplify the WLED configuration for 15 nodes, open the [WLED configuration template](wled_cfg_neodome_NNN.json) and find and replace NNN with the IRA Node name. Save the resulting file as wled_cfg_neodome_-`Node number`.json
+To simplify the WLED configuration for 15 nodes, open the [WLED configuration template](wled_cfg_neodome_NNN.json) and find and replace NNN with the IRA Node number. Save the resulting file as wled_cfg_neodome_-`Node number`.json
 
 ## Flashing WLED firmware on IRA board
 
